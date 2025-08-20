@@ -14,7 +14,7 @@ this is my first web site for creating a simple watsapp bot
 
 <p align="center">
   <a href="https://github.com/Awais-star-a11y">
-    <img src="http://readme-typing-svg.herokuapp.com?color=ADD8E6&center=true&vCenter=true&multiline=false&lines=cyber-x-MD-+V1.0+MULTIDEVICE;   DEVELOPED+BY+cyber+vihanga+and+cute_ima; DON'T+STAR+AND+FORKS+THIS+REPO+🌟" alt="AWAIS110Readme">
+    <img src="http://readme-typing-svg.herokuapp.com?color=ADD8E6&center=true&vCenter=true&multiline=false&lines=cyber-x-MD-+V1.0+MULTIDEVICE;   DEVELOPED+BY+cyber+vihanga; DON'T+STAR+AND+FORKS+THIS+REPO+🌟" alt="AWAIS110Readme">
   </a>
 </p>
 
