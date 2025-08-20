@@ -13,7 +13,7 @@ async (conn, mek, m, { from }) => {
     try {
         // Owner's contact info
         const ownerNumber = '+94770483357'; // Replace this with the actual owner number
-        const ownerName = 'VIHANGA KAVISH AND X IMA'; // Replace this with the owner's name
+        const ownerName = 'VIHANGA KAVISH '; // Replace this with the owner's name
         const organization = '*CYBER_X_MD* WHATSAPP BOT DEVALOPER 😈'; // Optional: replace with the owner's organization
         
 
