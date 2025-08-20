@@ -133,8 +133,4 @@ jobs:
 <h3>🌸 CYBER X MD DEVELOPER TEAM 👤</h3>
 
 
-</details>
-<hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true=true&multiline=false&lines=coding+support+by+sulakshana_mandara_Min" alt="">
-<hr>
 
