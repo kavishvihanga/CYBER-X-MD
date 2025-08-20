@@ -20,8 +20,9 @@ this is my first web site for creating a simple watsapp bot
 
 
 
+![WhatsApp Image 2025-08-19 at 12 09 38 PM](https://github.com/user-attachments/assets/f13f2caf-a8ac-407d-afb8-404c11c9f501)
 
-![kevin-ku-w7ZyuGYNpRQ-unsplash](https://github.com/user-attachments/assets/0c1c3323-d67c-4828-b817-e61d7fb1dab8)
+
 
 
 
