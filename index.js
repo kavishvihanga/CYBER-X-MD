@@ -111,7 +111,7 @@ let up = `🛠️ 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐧𝐠 CYBER-X-MD • MultiD
 ━━━━━━━━━━━━━━━━━━━━━━━`;
 
 
-conn.sendMessage(conn.user.id,{ image: { url: `https://i.ibb.co/TxYQ19zs/SulaMd.jpg` }, caption: up })
+conn.sendMessage(conn.user.id,{ image: { url: `https://i.ibb.co/4n0vvj5g/SulaMd.jpg` }, caption: up })
 
 }
 })
