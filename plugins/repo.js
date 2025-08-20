@@ -41,7 +41,7 @@ https://whatsapp.com/channel/0029Vb6D1AJ9Bb67Ygoqg72i
 > COMING SOON`;
 
         return await conn.sendMessage(from, { 
-            image: { url: "https://i.ibb.co/TxYQ19zs/SulaMd.jpg" },
+            image: { url: "https://i.ibb.co/4n0vvj5g/SulaMd.jpg" },
             caption: repolink,contextInfo: {
                 forwardingScore: 999,
                 isForwarded: true,
