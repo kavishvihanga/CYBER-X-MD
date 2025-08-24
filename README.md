@@ -133,5 +133,10 @@ jobs:
 <div align="center">
 <h3>🌸 CYBER X MD DEVELOPER TEAM 👤</h3>
 
+</details>
+<hr>
+<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=cording+By+mr_hashi_Min" alt="">
+<hr>
+
 
 
