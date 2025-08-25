@@ -12,7 +12,7 @@ cmd({
 },
 async (conn, mek, m, { from, isOwner, reply }) => {
     if (!isOwner) return reply("❌ You are not the owner!");
-    reply(`🤖 *𝐒𝐔𝐋𝐀-𝐌𝐃 JID*`);
+    reply(`🤖 *CYBER-X-MD JID*`);
 });
 // 8. Group JIDs List
 cmd({
